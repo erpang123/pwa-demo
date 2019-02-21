@@ -1,6 +1,6 @@
 {
     "mode": "history",
-    "base": "/",
+    "base": "/pwa-demo/",
     "routes": [
         {
             "path": "/appshell",
