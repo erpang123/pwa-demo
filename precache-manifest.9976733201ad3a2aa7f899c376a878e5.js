@@ -8,7 +8,7 @@ self.__precacheManifest = [
     "url": "/pwa-demo/static/js/vendor.80962780.js"
   },
   {
-    "revision": "68537c154b9a955885692e188ece1c26",
+    "revision": "c7d3d14d1bd7e9f640b4cd377b12a98d",
     "url": "/pwa-demo/static/manifest.json"
   },
   {
@@ -36,8 +36,8 @@ self.__precacheManifest = [
     "url": "/pwa-demo/static/img/icons/apple-touch-icon-152x152.png"
   },
   {
-    "revision": "60f41086469a5f04a294",
-    "url": "/pwa-demo/static/js/index.60f41086.js"
+    "revision": "669a2f6f5be0de86d906",
+    "url": "/pwa-demo/static/js/index.669a2f6f.js"
   },
   {
     "revision": "4dc6fdc67611efce36a3c500cbe1c0ec",
@@ -60,11 +60,11 @@ self.__precacheManifest = [
     "url": "/pwa-demo/static/img/icons/android-chrome-192x192.png"
   },
   {
-    "revision": "60f41086469a5f04a294",
+    "revision": "669a2f6f5be0de86d906",
     "url": "/pwa-demo/static/css/index.10774213.css"
   },
   {
-    "revision": "4fccd7a74995ab1de9d49fbc833fa2c7",
+    "revision": "1997be1ba6d5421e432e1f1b8e538da4",
     "url": "/pwa-demo/index.html"
   },
   {

@@ -1,5 +1,5 @@
 {
-    "start_url": "/",
+    "start_url": "/pwa-demo/",
     "name": "pwa-project",
     "short_name": "pwa-project",
     "icons": [
