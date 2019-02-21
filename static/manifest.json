@@ -1,5 +1,5 @@
 {
-    "start_url": "/?utm_source=homescreen",
+    "start_url": "/",
     "name": "pwa-project",
     "short_name": "pwa-project",
     "icons": [

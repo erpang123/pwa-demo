@@ -1,14 +1,14 @@
 self.__precacheManifest = [
   {
-    "revision": "4dc6fdc67611efce36a3c500cbe1c0ec",
-    "url": "/pwa-demo/static/img/icons/apple-touch-icon-60x60.png"
+    "revision": "0ff69c8fca81469c28f589d5fad0616e",
+    "url": "/pwa-demo/static/img/icons/apple-touch-icon-180x180.png"
   },
   {
     "revision": "80962780a720a662aaa7",
     "url": "/pwa-demo/static/js/vendor.80962780.js"
   },
   {
-    "revision": "2c5d37a108202e131e2d841af6e51c63",
+    "revision": "68537c154b9a955885692e188ece1c26",
     "url": "/pwa-demo/static/manifest.json"
   },
   {
@@ -24,8 +24,8 @@ self.__precacheManifest = [
     "url": "/pwa-demo/static/js/manifest.aa9698c2.js"
   },
   {
-    "revision": "047f3021e153c19951f86dd209904243",
-    "url": "/pwa-demo/static/img/icons/favicon-32x32.png"
+    "revision": "3742528143340e36915adf388d64060f",
+    "url": "/pwa-demo/static/img/icons/favicon-16x16.png"
   },
   {
     "revision": "efbe0aa485b3aeaceb8ead9191f0c4c0",
@@ -36,12 +36,12 @@ self.__precacheManifest = [
     "url": "/pwa-demo/static/img/icons/apple-touch-icon-152x152.png"
   },
   {
-    "revision": "b4d0c8d4e60676ff046f",
-    "url": "/pwa-demo/static/js/index.b4d0c8d4.js"
+    "revision": "60f41086469a5f04a294",
+    "url": "/pwa-demo/static/js/index.60f41086.js"
   },
   {
-    "revision": "0ff69c8fca81469c28f589d5fad0616e",
-    "url": "/pwa-demo/static/img/icons/apple-touch-icon-180x180.png"
+    "revision": "4dc6fdc67611efce36a3c500cbe1c0ec",
+    "url": "/pwa-demo/static/img/icons/apple-touch-icon-60x60.png"
   },
   {
     "revision": "7264d2ec7553bb96307af4acbe697faf",
@@ -52,19 +52,19 @@ self.__precacheManifest = [
     "url": "/pwa-demo/static/img/icons/apple-touch-icon-120x120.png"
   },
   {
-    "revision": "3742528143340e36915adf388d64060f",
-    "url": "/pwa-demo/static/img/icons/favicon-16x16.png"
+    "revision": "047f3021e153c19951f86dd209904243",
+    "url": "/pwa-demo/static/img/icons/favicon-32x32.png"
   },
   {
     "revision": "b8a42c4a3b00c4f75bc636f2923eaeca",
     "url": "/pwa-demo/static/img/icons/android-chrome-192x192.png"
   },
   {
-    "revision": "b4d0c8d4e60676ff046f",
+    "revision": "60f41086469a5f04a294",
     "url": "/pwa-demo/static/css/index.10774213.css"
   },
   {
-    "revision": "921a86c23e659041bddc01248e6003fa",
+    "revision": "4fccd7a74995ab1de9d49fbc833fa2c7",
     "url": "/pwa-demo/index.html"
   },
   {
